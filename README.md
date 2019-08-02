@@ -102,5 +102,8 @@ It uses the Spritesmith library to generate a sprite atlas and export a json fil
   ]
 }
 
-<img src="/watermark_sprite_atlas.png" />
 
+
+```
+
+<img src="/watermark_sprite_atlas.png" />
