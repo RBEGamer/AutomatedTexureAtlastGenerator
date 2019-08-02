@@ -1,9 +1,9 @@
 {
     "config_name":"AtlasExportObjectsOnly",
-    "asset_folder_path":"../../SharedAssets",
+    "asset_folder_path":"inputFiles",
     "file_prefix":"SA_",
     "ignore_filenames":[],
-    "output_file_path":"../../SharedAssets/ExportedFileAtlas",
+    "output_file_path":"outputFiles",
     "atlas_file_name":"sprite_atlas",
     "supported_image_types":[".png",".jpeg",".bmp", ".tiff"]
 
