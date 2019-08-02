@@ -1,3 +1,5 @@
+<img src="/logo.png" />
+
 # AutomatedTexureAtlastGenerator
 
 This tool packs all found sprites in an given Folder into one sprite atlas.
