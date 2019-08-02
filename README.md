@@ -17,5 +17,6 @@ It uses the Spritesmith library to generate a sprite atlas and export a json fil
 
 
 # RUN
-
+`$ cd /src`
+`$ npm install`
 `$ node spg_exporter.js`
