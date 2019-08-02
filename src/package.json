@@ -1,0 +1,14 @@
+{
+  "name": "AutomatedTexureAtlastGenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spg_exporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcel Ochsendorf RBEGamer",
+  "license": "ISC",
+  "dependencies": {
+    "spritesmith": "^3.3.1"
+  }
+}
