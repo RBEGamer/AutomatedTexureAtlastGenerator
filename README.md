@@ -1,4 +1,4 @@
-<img src="/logo.png" />
+![Gopher image](/logo.png)
 
 # AutomatedTexureAtlastGenerator
 
@@ -108,4 +108,5 @@ It uses the Spritesmith library to generate a sprite atlas and export a json fil
 
 ```
 
-<img src="/watermark_sprite_atlas.png" />
+
+![Gopher image](/watermark_sprite_atlas.png)
